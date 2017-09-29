@@ -1,0 +1,4 @@
+* DBC's hack4dk datasets
+  The datasets are all available on the link: https://docs.google.com/document/d/e/2PACX-1vR-ap1qWCUZEV79LKNaEgCCGA_vgzNBp-GFee8tHIld8uAT7WUVUM5IYrnvFpckt6jW6HpNZlP5T3F9/pub
+** Bibdk-searches
+   All the online search queries made on the bibliotek.dk website
