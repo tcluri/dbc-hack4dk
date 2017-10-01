@@ -1,4 +1,18 @@
-* DBC's hack4dk datasets
-  The datasets are all available on the link: https://docs.google.com/document/d/e/2PACX-1vR-ap1qWCUZEV79LKNaEgCCGA_vgzNBp-GFee8tHIld8uAT7WUVUM5IYrnvFpckt6jW6HpNZlP5T3F9/pub
+* DBC's hack4dk dataset
+  The dataset used is under 2017 datasets online at hack4.dk website
+  which was provided by DBC -- containing searches via online library
+  catalogue.
+
 ** Bibdk-searches
-   All the online search queries made on the bibliotek.dk website
+   The online search queries were made on the bibliotek.dk website
+   The attributes are described according to the following table
+
+   |---------------------------------+--------------------------------+----------------+----------------------+--------------------|
+   | search                          | session_id                     | time           | user_id              | useragent          |
+   |---------------------------------+--------------------------------+----------------+----------------------+--------------------|
+   | A search string entered by user | Unique id for a search session | Echo-timestamp | Unique id for a user | Browser agent data |
+   |---------------------------------+--------------------------------+----------------+----------------------+--------------------|
+
+** Wordclouds
+   The generated wordcloud can be viewed as a [[file:DanishBibdk.pdf][file]] or can be seen in the
+   jupyter notebook.
